@@ -5,14 +5,8 @@ import random
 from tkinter import messagebox
 run = True
 while run:
-    
-    
-    
-    
-    
-    
-    
-    
+  
+   
     
     root = Tk()  # creating object to tkinter class (creating a window)
     root.geometry("1050x550")
